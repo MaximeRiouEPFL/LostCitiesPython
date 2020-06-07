@@ -33,6 +33,7 @@ Recreate the board game lost cities using python and tkinter as basic GUI
 - Automatic ending of the game
 - Automatic calculations of scores
 - Move a card from the stack, to your hand, to a pile or the discard pile
+- illegal moves should not be possible
 
 # Good practice goals
 - unit tests
